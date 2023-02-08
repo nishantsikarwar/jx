@@ -13,10 +13,10 @@ const (
 	ApplicationVersion = "0.3.1"
 
 	// ChangelogVersion the version of the jx changelog plugin
-	ChangelogVersion = "0.9.2"
+	ChangelogVersion = "0.9.5"
 
 	// GitOpsVersion the version of the jx gitops plugin
-	GitOpsVersion = "0.11.2"
+	GitOpsVersion = "0.12.0"
 
 	// HealthVersion the version of the jx health plugin
 	HealthVersion = "0.0.77"
@@ -31,13 +31,13 @@ const (
 	PipelineVersion = "0.5.9"
 
 	// PreviewVersion the version of the jx preview plugin
-	PreviewVersion = "0.0.231"
+	PreviewVersion = "0.0.232"
 
 	// ProjectVersion the version of the jx project plugin
 	ProjectVersion = "0.2.56"
 
 	// PromoteVersion the version of the jx promote plugin
-	PromoteVersion = "0.6.1"
+	PromoteVersion = "0.6.2"
 
 	// SecretVersion the version of the jx secret plugin
 	SecretVersion = "0.3.2"
